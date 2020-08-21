@@ -1,0 +1,30 @@
+.container-fluid .row section div
+{
+	background:grey;
+	padding: 10px;
+	margin: 20px;	
+}
+
+#Menu
+{
+	margin: 20px auto 20px; 
+}
+h3	
+{
+	padding: 10px;
+}
+li
+{
+	width: 100vw;
+	border:1px solid black;
+}
+.navbar
+{
+	width: 100%;
+	line-height: 7px;	
+	padding: 0;
+}
+.navbar a,.navbar button
+{
+	margin: 0.5rem 1rem;
+}
